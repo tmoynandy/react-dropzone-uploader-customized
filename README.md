@@ -10,5 +10,7 @@ This repo provides a complete customization and styling solution for React-Dropz
   - Custom Error 
   - Custom tooltip with React-Tooltip
   - Custom Uploader responsive for all screen sizes
+  - Custom Remove functionality to Delete Uploaded Elements
+  - Custom Pause and Cancel functionality to Abort Ongoing Upload
 
 [Edit on StackBlitz ⚡](https://stackblitz.com/edit/react-dropzone-uploader-customized)

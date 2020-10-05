@@ -9,5 +9,6 @@ This repo provides a complete customization and styling solution for React-Dropz
   - Custom Preview components (During upload & After Upload)
   - Custom Error 
   - Custom tooltip with React-Tooltip
+  - Custom Uploader responsive for all screen sizes
 
 [Edit on StackBlitz ⚡](https://stackblitz.com/edit/react-dropzone-uploader-customized)

@@ -1,0 +1,120 @@
+* {
+  font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    
+}
+
+p h1{
+  color:#1D1D1F;
+}
+
+h3 p{
+  margin-block-end: 0em;
+}
+
+.uploader{
+  margin-top:20%;
+}
+
+.custom-preview{
+  width: 80%;
+}
+.custom-preview-name{
+  display:inline-block;
+}
+.custom-preview-progress{
+  display:inline-block;
+}
+.custom-preview-cancel{
+  display:inline-block;
+}
+.rounded{
+  cursor:pointer;
+  border-radius: 15px ;
+  border: 2px solid #d8d8d8;
+  background-color: #f5f5f7;
+  line-height: 1.33337;
+  font-size:12px;
+  font-weight: 400;
+  font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+  min-width: 23px;
+  padding: 4px 11px;
+  height: 50px; 
+  color:#1D1D1F; 
+}
+.rounded-button-secondary{
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    min-width: 23px;
+    padding: 4px 11px;
+    border-radius: 12px;
+    background-color:#E8E8ED;
+    border: 0px solid white;
+    color:#1D1D1F;
+}
+.rounded-button-primary{
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    min-width: 23px;
+    padding: 4px 11px;
+    border-radius: 12px;
+    background-color:#0071E3;
+    color:white;
+    outline:none;
+    border: 0px solid white;
+}
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    text-align: center;
+}
+.dzu-dropzone{
+  min-height: 15em;
+  border: 2px dotted #d9d9d9;
+}
+.preview{
+  display:inline-block;
+}
+.preview-x{
+  display:block
+}
+
+
+
+.customeTooltip {
+ color: #3c3c3c !important;
+ background-color: #fcfcfc !important;
+ opacity:1;
+ -moz-box-shadow:    2px 2px 2px 2px #ccc;
+ -webkit-box-shadow:  2px 2px 2px 2px #ccc;
+ box-shadow:         2px 2px 2px 2px #ccc;
+ }
+
+ .attachment-icon-button {
+    background-color: Transparent;
+    color : #298bff;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+
+.dzu-dropzone{
+  border-image-outset: null !important;
+  overflow-y: hidden;
+  overflow-x: hidden;
+
+}
+
+.react-sweet-progress-line-inner {
+    
+    min-height: 5px;
+    
+}

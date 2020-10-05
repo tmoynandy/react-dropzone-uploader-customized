@@ -1,0 +1,30 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "1.2.30",
+    "@fortawesome/free-solid-svg-icons": "5.14.0",
+    "@fortawesome/react-fontawesome": "0.1.11",
+    "html5-file-selector": "^2.1.0",
+    "moment": "^2.27.0",
+    "prop-types": "15.7.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-dropzone-uploader": "2.11.0",
+    "react-fontawesome": "1.7.1",
+    "react-is": ">= 16.8.0",
+    "react-sweet-progress": "1.1.2",
+    "react-tooltip": "4.2.8",
+    "styled-components": "^5.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}

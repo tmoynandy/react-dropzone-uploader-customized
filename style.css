@@ -12,6 +12,14 @@ h3 p{
   margin-block-end: 0em;
 }
 
+.drag-and-drop-top {
+  padding: 20px;
+}
+
+.drag-and-drop-bottom {
+  padding-top: 20px;
+}
+
 .uploader{
   margin-top:20%;
 }
